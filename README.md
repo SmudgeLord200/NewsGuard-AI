@@ -2,6 +2,9 @@
 
 NewsGuard AI is a fullstack service designed to analyze news articles from URLs. It leverages various Natural Language Processing (NLP) models to provide insights such as summarization, sentiment analysis, bias classification, topic identification, and named entity recognition.
 
+## Demo
+link: https://drive.google.com/file/d/1En6ZkggY0g5XyOAOv0TqVMgsdjL5TC1p/view?usp=drive_link
+
 ## Features
 
 *   **Article Fetching & Parsing**: Downloads and extracts content from a given news article URL.
